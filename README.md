@@ -31,7 +31,10 @@ RunAsInvoker_DUMB.bat "C:\Path\To\YourApp.exe"
 cmd /min /C "set __COMPAT_LAYER=runasinvoker && start "" "%1"
 save this as a bat then grad and drop the exe on that bat it will run no admin needed
 ```
+# if u are that dumb watch this video 
 https://www.youtube.com/watch?v=f6TVqLSYcxE&t=513s
+
+
 ❗ Limitations
 This doesn't grant admin access — it only prevents elevation prompts.
 
