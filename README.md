@@ -24,3 +24,15 @@ Run any `.exe` with **standard privileges**, even if it normally requires elevat
 
 ```bash
 RunAsInvoker_DUMB.bat "C:\Path\To\YourApp.exe"
+
+
+❗ Limitations
+This doesn't grant admin access — it only prevents elevation prompts.
+
+Some apps require admin to work properly and may fail without it.
+
+📜 License
+This project is for educational/demo purposes. Use responsibly.
+
+"they cant exploit u if u are the exploit"
+— by unknone hart
