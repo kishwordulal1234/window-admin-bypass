@@ -1,6 +1,6 @@
 # window-admin-bypass
 
-
+![Banner](icon.png)
 # D.U.M.B RunAsInvoker
 
 🚀 A flashy UAC-bypass launcher built with style — no admin prompt, no interruptions.  
